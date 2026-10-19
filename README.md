@@ -8,7 +8,7 @@ It runs entirely on a local computer with open-source models. No cloud AI servic
 
 > **Status:** working product on the full CSM 2025. Not an official NEPRA or DISCO product. Looking for a pilot with a DISCO customer-service centre.
 
-![CSM Help Desk: answer with the rule](screenshots/help-desk-answer.png)
+![CSM Help Desk: answer with the rule](help-desk-answer.png)
 
 ---
 
@@ -69,8 +69,8 @@ All components allow commercial use (Apache 2.0, MIT, BSD). Model licences are i
 
 | | |
 |---|---|
-| ![Answer with the rule](screenshots/help-desk-answer.png) | ![Calculators](screenshots/calculators.png) |
-| ![Roman Urdu answer](screenshots/roman-urdu-answer.png) | ![Browse the manual](screenshots/browse-manual.png) |
+| ![Answer with the rule](help-desk-answer.png) | ![Calculators](calculators.png) |
+| ![Roman Urdu answer](roman-urdu-answer.png) | ![Browse the manual](browse-manual.png) |
 
 ---
 
